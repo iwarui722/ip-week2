@@ -9,7 +9,7 @@
 
 ## Prerequisites
 The software to install to run the code: 
-- chrome,moxilla .
+- chrome or moxilla .
 - visual studio , atom .
 
 ## Installing
