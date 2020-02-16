@@ -1,5 +1,5 @@
 
-# Portfolio-Readme
+# Readme
 
 ## Individual Project
 - This is a porfolio  individual project for week one.
