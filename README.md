@@ -10,7 +10,7 @@
 ## Prerequisites
 The software to install to run the code: 
 - chrome,moxilla .
-- visual studio , atom
+- visual studio , atom .
 
 ## Installing
 - Instal visual studio : https://code.visualstudio.com/download .
