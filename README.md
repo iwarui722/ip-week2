@@ -9,7 +9,7 @@
 
 ## Prerequisites
 The software to install to run the code: 
--chrome,
+-chrome,moxilla
 - 
 
 ## Installing
