@@ -2,7 +2,7 @@ body{
   background-color: teal;
 }
 h1{
-  color: white;
+  color: blue;
 }
 .parent{
   margin-top: 10px;
@@ -32,7 +32,7 @@ h1{
   font-family: Arial, Helvetica, sans-serif;
   font-weight: lighter;
   font-size: 25px;
-  color:white;
+  color:teal;
 }
 .p-text{
   margin: 30px 30px 30px 10px;
