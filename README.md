@@ -24,6 +24,7 @@ The software to install to run the code:
 ## Built with:
 - HTML.
 - CSS.
+- Javascript.
 
 ## Author
 - Ian M.Warui .
